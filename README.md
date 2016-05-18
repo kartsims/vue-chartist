@@ -1,6 +1,8 @@
 vue-chartist
 ==============
 
+[![Join the chat at https://gitter.im/kartsims/vue-chartist](https://badges.gitter.im/kartsims/vue-chartist.svg)](https://gitter.im/kartsims/vue-chartist?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Plugin [Vuejs](http://vuejs.org/) for [Chartist.js](https://gionkunz.github.io)
 
 ## Install
